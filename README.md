@@ -4,4 +4,4 @@
 
 # دستور نصب
 ```
-bash <(curl -Ls https://github.com/peter19822003/Hyblo/hyblo.sh)
+bash <(curl -Ls https://github.com/peter19822003/Hyblo/Hyblo.sh)
