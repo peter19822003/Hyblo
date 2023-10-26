@@ -4,11 +4,11 @@
 
 # دستور نصب
 ```
-bash <(curl -Ls https://github.com/peter19822003/Hyblo/blob/main/Hyblo.sh)
+bash <(curl -Ls https://github.com/peter19822003/Hyblo/blob/main/hyblo.sh)
 ```
 
 # درصورت خطا کد بالا از دستور زیر استفاده کنید
 
 ```
-wget -N --no-check-certificate https://github.com/peter19822003/Hyblo/hybla.sh && chmod +x hybla.sh && bash hybla.sh
+wget -N --no-check-certificate https://github.com/peter19822003/Hyblo/hyblo.sh && chmod +x hyblo.sh && bash hyblo.sh
 ```
