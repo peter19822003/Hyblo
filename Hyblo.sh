@@ -1,7 +1,3 @@
-#!/usr/bin/env bash
-#
-# Auto install latest kernel for TCP Hybla
-#
 # System Required:  CentOS 6+, Debian8+, Ubuntu16+
 #
 # Copyright (C) 2023 zaman.king
